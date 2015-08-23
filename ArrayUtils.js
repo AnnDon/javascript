@@ -9,3 +9,4 @@ Function.prototype.isArray=Function.isArray||function(o){
 var o={1:'one',2:'two',3:'three'};
 
 window.console.log(Array.isArray(o));
+var p=new Date();
